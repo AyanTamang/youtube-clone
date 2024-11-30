@@ -1,8 +1,13 @@
-# React + Vite
+**Youtube-clone 
+**
+In this project i tried to make youtube clone and I learned how to use props,mapping effectively 
+while making this project I dived deep into css such as flex,grid etc as well.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+**Here are some screenshots **
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+![image](https://github.com/user-attachments/assets/d0c26f8a-991e-4370-900b-9b4a3fcdc033)
+
+
