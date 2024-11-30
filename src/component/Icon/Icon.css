@@ -1,0 +1,14 @@
+.icon-wrapper > img {
+  width: 25px !important;
+  height: 25px !important;
+}
+.icon-wrapper {
+  width: 25px;
+  height: 25px;
+  padding: 0.5rem;
+}
+.icon-wrapper:hover {
+  background-color: #e5e5e5;
+  border-radius: 50%;
+  cursor: pointer;
+}

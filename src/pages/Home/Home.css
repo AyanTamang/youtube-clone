@@ -1,0 +1,17 @@
+.main-container {
+  display: flex;
+  .videocard-sections {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 1rem;
+    row-gap: 0;
+  }
+  .main-video {
+    display: flex;
+    height: 90vh;
+    flex: 1;
+    justify-content: center;
+    padding-top: 1.5rem;
+    overflow: scroll;
+  }
+}

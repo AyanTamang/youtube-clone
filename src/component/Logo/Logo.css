@@ -1,0 +1,12 @@
+.logo-wrapper > img {
+  width: 30px;
+  height: 30px;
+}
+.logo-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+  p {
+    font-weight: bold;
+  }
+}

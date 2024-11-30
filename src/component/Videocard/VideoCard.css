@@ -1,0 +1,23 @@
+.videocard-wrapper {
+  img {
+    height: 200px;
+    width: 350px;
+    object-fit: cover;
+    border-radius: 1rem;
+  }
+  .title-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 350px;
+  }
+  .views-section {
+    display: flex;
+    gap: 1rem;
+  }
+  .grey {
+    color: grey;
+    font-size: 0.9rem;
+  }
+  height: 350px;
+}

@@ -1,0 +1,11 @@
+.menu-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding-left: 1rem;
+  padding-right: 4rem;
+  border-radius: 15px;
+}
+.menu-wrapper:hover {
+  background-color: #e5e5e5;
+}
